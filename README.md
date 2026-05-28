@@ -18,5 +18,5 @@
 * Data Cleaning
 
 ## Dashboard Preview
-
+sales ss1.png
 
